@@ -1,6 +1,6 @@
 {
-  "name": "axios-observable",
-  "version": "1.0.7",
+  "name": "@one-acre-fund-devs/axios-observable",
+  "version": "1.0.0",
   "description": "make axios return Observable as opposed to Promise",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhaosiyang/axios-observable"
+    "url": "git+https://github.com/one-acre-fund/axios-observable"
   },
   "keywords": [
     "axios",
@@ -18,8 +18,6 @@
     "ajax",
     "http"
   ],
-  "author": "Siyang Kern Zhao <siyangkernzhao@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "typescript": "^2.9.2"
   },
